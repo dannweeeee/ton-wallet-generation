@@ -1,4 +1,4 @@
-# TON Wallet Generator
+# TON Wallet Maker
 
 This script generates multiple TON blockchain wallets and saves their addresses and private keys to a file.
 
