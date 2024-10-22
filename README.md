@@ -19,8 +19,8 @@ This script generates multiple TON blockchain wallets and saves their addresses 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/flaming-chameleon/ton-wallet-generation.git
-   cd ton-wallet-generation
+   git clone https://github.com/dannweeeee/ton-wallet-maker.git
+   cd ton-wallet-maker
    ```
 
 2. Install the required libraries:
