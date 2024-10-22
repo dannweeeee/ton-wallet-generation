@@ -33,7 +33,7 @@ This script generates multiple TON blockchain wallets and saves their addresses 
 1. Run the script:
 
    ```
-   python ton_wallet-maker.py
+   python ton_wallet_maker.py
    ```
 
 2. Enter the number of wallets to generate when prompted.
